@@ -1,0 +1,16 @@
+# Build and temporary artifacts
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "odw": {
+      "source": "Suraj1235/open-dynamic-workflows",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/odw/SKILL.md",
+      "computedHash": "458facb6a0dd27e0db58b13a3298f21f479f3bf99d38df8f792ecf27f9c322c1"
+    },
+    "ultracode": {
+      "source": "Suraj1235/open-dynamic-workflows",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/ultracode/SKILL.md",
+      "computedHash": "12fa589ebf6a159538278d427f4ce67824e5a5442d38c74ad805ab9b3104e835"
+    }
+  }
+}
