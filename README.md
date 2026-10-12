@@ -17,6 +17,12 @@
    - ODW Daemon 安裝、啟動與 Antigravity 技能整合細節。
    - 深入 QuickJS-WASM 沙盒原始碼，證實 ODW 支援三層模型別名（`planning`、`default`、`fallback`）與自訂 BaseURL。
    - 沙盒實測四 Agent 分級派工之實驗數據。
+   - 與 OMC (oh-my-claudecode) 實機配置差異對照。
+
+3. **[ODW 完整架構、原語與用法詳細研究 (ODW_DEEP_DIVE.md)](ODW_DEEP_DIVE.md)**
+   - 深入 QuickJS-WASM 沙盒原始碼，解析 `agent`、`parallel`、`pipeline`、`verify`（含 `testCommand` 測試閘門）、`checkpoint`、`replan` 等核心原語。
+   - RESTful API、CLI、MCP Server 與完整安全稽核範例腳本。
+   - **無 API Key 免費套用方案**：官方支援配置本地 **Ollama** 達成 $0 成本 100% 本地化動態工作流。
 
 ---
 
